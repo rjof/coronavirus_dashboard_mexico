@@ -26,7 +26,7 @@ jupyter-client @ file:///tmp/build/80754af9/jupyter_client_1601311786391/work
 jupyter-core @ file:///tmp/build/80754af9/jupyter_core_1612213311222/work
 jupyterlab-pygments @ file:///tmp/build/80754af9/jupyterlab_pygments_1601490720602/work
 MarkupSafe==1.1.1
-mistune==0.8.4
+mistune==2.0.3
 nbclient @ file:///tmp/build/80754af9/nbclient_1613676291033/work
 nbconvert==5.6.1
 nbformat @ file:///tmp/build/80754af9/nbformat_1610738111109/work
