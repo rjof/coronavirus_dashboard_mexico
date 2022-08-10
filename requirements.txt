@@ -28,7 +28,7 @@ jupyterlab-pygments @ file:///tmp/build/80754af9/jupyterlab_pygments_16014907206
 MarkupSafe==1.1.1
 mistune==0.8.4
 nbclient @ file:///tmp/build/80754af9/nbclient_1613676291033/work
-nbconvert==5.6.1
+nbconvert==6.3.0
 nbformat @ file:///tmp/build/80754af9/nbformat_1610738111109/work
 nest-asyncio @ file:///tmp/build/80754af9/nest-asyncio_1613680548246/work
 notebook==6.0.3
