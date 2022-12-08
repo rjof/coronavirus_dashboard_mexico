@@ -6,7 +6,7 @@ backcall @ file:///home/ktietz/src/ci/backcall_1611930011877/work
 bleach @ file:///tmp/build/80754af9/bleach_1612211392645/work
 bottle==0.12.19
 bottle-websocket==0.2.9
-certifi==2020.12.5
+certifi==2022.12.7
 decorator @ file:///home/ktietz/src/ci/decorator_1611930055503/work
 defusedxml @ file:///home/ktietz/src/ci_mi/defusedxml_1612808095953/work
 Eel==0.12.4
